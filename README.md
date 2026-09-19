@@ -13,6 +13,7 @@ The thermal diode maintained conductivity while it periodically cooled down.
 
 
 Sensor Layout (What each sensor measured): 
+
 Sensor 1:  Paraffin(Wax)
 Sensor 2: (Cold side of thermal diode/Fan)
 Sensor 3: (Boiling Water)
