@@ -18,7 +18,7 @@ Sensor Layout (What each sensor measured):
 - Sensor 2: (Cold side of thermal diode/Fan)
 - Sensor 3: (Boiling Water)
 
-#Second Trial
+# Second Trial
 
 
 
